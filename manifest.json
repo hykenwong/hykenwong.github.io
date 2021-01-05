@@ -2,12 +2,12 @@
     "name": "DN Wiki",
     "icons": [
         {
-            "src": "https://reference.dngamer.site/android-chrome-192x192",
+            "src": "https://reference.dngamer.site/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://reference.dngamer.site/android-chrome-256x256",
+            "src": "https://reference.dngamer.site/android-chrome-256x256.png",
             "sizes": "256x256",
             "type": "image/png"
         }
