@@ -1,0 +1,53 @@
+/*!
+* direction.less v0.1.0
+*
+* Copyright 2013 Moshe Simantov
+* Licensed under the MIT license
+* 
+* Keep tracking: https://github.com/DevelopmentIL/direction.less
+*/.item-card[data-v-4aca7b0f]{position:relative;padding:0 0 0 10px;min-height:64px;height:100%;cursor:pointer;background:rgba(0,0,0,.375);-webkit-transition:background-color .125s ease-in;transition:background-color .125s ease-in}.item-card.active[data-v-4aca7b0f]:hover,.item-card[data-v-4aca7b0f]:hover{background:rgba(152,188,212,.3)}.item-card.active[data-v-4aca7b0f]{background:rgba(152,188,212,.2)}.item-card .entry[data-v-4aca7b0f]{position:relative;padding:4px 0;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row;color:#a6aeb3}.item-card .entry .icon[data-v-4aca7b0f]{-webkit-box-flex:0;-ms-flex:0 0 50px;flex:0 0 50px;width:50px;vertical-align:middle}.item-card .entry .icon .centering[data-v-4aca7b0f]{position:absolute;top:12px}.item-card .entry:hover .title .remark .iid[data-v-4aca7b0f],.item-card .entry:hover .title .remark .level[data-v-4aca7b0f]:before{color:#a6aeb3}.item-card .entry .title[data-v-4aca7b0f]{-webkit-box-flex:1;-ms-flex:1 1 auto;flex:1 1 auto;padding-left:12px;padding-top:0;padding-bottom:20px}.item-card .entry .title[data-v-4aca7b0f]:last-child{padding-right:40px}.item-card .entry .title .head[data-v-4aca7b0f]{margin:-2px 0;padding:0;font-size:16px;text-transform:uppercase;letter-spacing:.1em;font-family:Geomanist,Segoe UI,Tahoma,Verdana,sans-serif;color:#98bcd4}.item-card .entry .title .remark[data-v-4aca7b0f]{font-size:12px;letter-spacing:.2em;text-transform:uppercase;word-wrap:break-word}.item-card .entry .title .remark .iid[data-v-4aca7b0f]{color:rgba(166,174,179,.2);-webkit-transition:color .125s ease-in;transition:color .125s ease-in}.item-card .entry .title .remark .tier[data-v-4aca7b0f]{display:inline-block;margin-right:.3em}.item-card .entry .title .remark .level[data-v-4aca7b0f]{color:#5aa9e5}.item-card .entry .title .remark .level[data-v-4aca7b0f]:before{content:"LV ";font-size:.625em;color:#3b6e96;-webkit-transition:color .125s ease-in;transition:color .125s ease-in}.item-card .entry .title .remark .can-use[data-v-4aca7b0f]{color:#5aa9e5}.item-card .entry .title .remark .cash[data-v-4aca7b0f]{color:#10a020}.item-card .entry .title .skill[data-v-4aca7b0f]{margin-top:4px;border-top:1px solid #3d4b54;padding-top:4px;font-size:12px;letter-spacing:.2em;text-transform:uppercase;word-wrap:break-word;color:#98bcd4}.item-card .entry .title .skill .job[data-v-4aca7b0f]{color:#5aa9e5}.item-card .entry .potential[data-v-4aca7b0f]{-webkit-box-flex:0;-ms-flex:0 0 80px;flex:0 0 80px;position:relative;color:#3b6e96;font-size:10px;font-weight:400;text-transform:uppercase;letter-spacing:.1em;text-align:center}.item-card .entry .potential .wrapper[data-v-4aca7b0f]{position:absolute;right:0;left:0;top:50%;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.item-card .entry .potential .potential-entry[data-v-4aca7b0f]{font-size:14px;color:#98bcd4}.item-card .entry .rate[data-v-4aca7b0f]{position:absolute;text-align:right;right:.4em;top:50%;color:#3b6e96;-webkit-transition:color .125s ease-in;transition:color .125s ease-in;-webkit-transform:translateY(-50%);transform:translateY(-50%);padding-bottom:6px}.item-card .entry .rate[data-v-4aca7b0f]:after{content:"概率";position:absolute;color:#3d4b54;font-size:10px;bottom:-4px;left:0;right:0;text-align:center}.item-card .entry:hover .rate[data-v-4aca7b0f]{color:#98bcd4}.item-card .loading .loader-box[data-v-4aca7b0f]{position:absolute;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.5);padding:16px 0 0 16px}.item-card .loading .loader-box .label[data-v-4aca7b0f]{display:inline-block;text-transform:uppercase;letter-spacing:.2em;padding-top:10px;padding-left:10px;vertical-align:top;color:#98bcd4}.item-card .loading .loader-box .loader[data-v-4aca7b0f],.item-card .loading .loader-box .loader[data-v-4aca7b0f]:after{border-radius:50%;width:2em;height:2em}.item-card .loading .loader-box .loader[data-v-4aca7b0f]{display:inline-block;line-height:100%;font-size:16px;text-indent:-9999em;border-top:.2em solid rgba(0,0,0,.75);border-right:.2em solid rgba(0,0,0,.75);border-bottom:.2em solid rgba(0,0,0,.75);border-left:.2em solid #98bcd4;background:rgba(0,0,0,.5);-webkit-animation:load8 1.1s linear infinite;animation:load8 1.1s linear infinite}
+
+/*!
+* direction.less v0.1.0
+*
+* Copyright 2013 Moshe Simantov
+* Licensed under the MIT license
+* 
+* Keep tracking: https://github.com/DevelopmentIL/direction.less
+*/.card-list[data-v-a4b37af2]{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row;-ms-flex-wrap:wrap;flex-wrap:wrap;width:100%;margin:10px 0}.card-list[long][data-v-a4b37af2]{max-height:50vh;min-height:300px;overflow-y:scroll;border-bottom:1px solid #98bcd4;border-top:1px solid #98bcd4}.card-list .empty[data-v-a4b37af2]{-webkit-box-flex:1;-ms-flex:1 1;flex:1 1;padding:20px;font-family:Geomanist,Segoe UI,Tahoma,Verdana,sans-serif;text-transform:uppercase;letter-spacing:.1em;color:#3b6e96;text-align:center}.card-list .empty .desc[data-v-a4b37af2]{padding:.5em 1em;background:rgba(19,19,21,.7);border-left:2px solid #98bcd4}
+
+/*!
+* direction.less v0.1.0
+*
+* Copyright 2013 Moshe Simantov
+* Licensed under the MIT license
+* 
+* Keep tracking: https://github.com/DevelopmentIL/direction.less
+*/.card-list-entry[data-v-83cab26c]{border:1px solid #98bcd4;border-top-width:0;-webkit-box-sizing:border-box;box-sizing:border-box;-webkit-box-flex:0;-ms-flex:0 1;flex:0 1;-ms-flex-preferred-size:100%;flex-basis:100%}@media only screen and (min-width:1300px){.card-list-entry[data-v-83cab26c]:not([narrow]){-ms-flex-preferred-size:50%;flex-basis:50%;max-width:50%}.card-list-entry[data-v-83cab26c]:not([narrow]):first-child,.card-list-entry[data-v-83cab26c]:not([narrow]):nth-child(2){border-top-width:1px}.card-list-entry[data-v-83cab26c]:not([narrow]):nth-child(2n){border-left-width:0}}.card-list-entry[data-v-83cab26c]:first-child{border-top-width:1px}
+
+/*!
+* direction.less v0.1.0
+*
+* Copyright 2013 Moshe Simantov
+* Licensed under the MIT license
+* 
+* Keep tracking: https://github.com/DevelopmentIL/direction.less
+*/.itemdrop .item-card.over[data-v-3093525c]:after{content:"金币掉落";position:absolute;top:2px;right:2px;color:#cd2020;text-transform:uppercase;font-size:12px;letter-spacing:.1em}.itemdrop .nothing-card[data-v-3093525c]{position:relative;padding:0 0 0 10px;min-height:64px;height:100%;cursor:not-allowed;background:rgba(0,0,0,.375);-webkit-transition:background-color .125s ease-in;transition:background-color .125s ease-in}.itemdrop .nothing-card.active[data-v-3093525c]:hover,.itemdrop .nothing-card[data-v-3093525c]:hover{background:rgba(152,188,212,.3)}.itemdrop .nothing-card.active[data-v-3093525c]{background:rgba(152,188,212,.2)}.itemdrop .nothing-card .head[data-v-3093525c]{margin:0;padding:14px 0 0 4px;font-size:16px;text-transform:uppercase;letter-spacing:.1em;font-family:Geomanist,Segoe UI,Tahoma,Verdana,sans-serif;color:#98bcd4}
+
+/*!
+* direction.less v0.1.0
+*
+* Copyright 2013 Moshe Simantov
+* Licensed under the MIT license
+* 
+* Keep tracking: https://github.com/DevelopmentIL/direction.less
+*/.drop-title[data-v-6ad94498]{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;border:1px solid rgba(90,169,229,.5686274509803921);padding:5px;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.drop-title>h4[data-v-6ad94498]{margin:10px}.drop-title>img[data-v-6ad94498]{width:25px;padding:15px}.group-list[data-v-6ad94498]{border:1px solid rgba(90,169,229,.5686274509803921);border-top:none;padding:5px}.loading[data-v-6ad94498]{margin:10px 0}.itemdropgroup .item-list[data-v-6ad94498]{margin-top:10px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row;-ms-flex-wrap:wrap;flex-wrap:wrap;max-height:500px;overflow-y:scroll;border-top:1px solid #3b6e96;border-bottom:1px solid #3b6e96}.itemdropgroup .item-list .result.no[data-v-6ad94498]{display:none}.itemdropgroup .item-list .result:first-child.no[data-v-6ad94498]{display:block}.itemdropgroup .item-list .entry[data-v-6ad94498]{-webkit-box-flex:1;-ms-flex:1 1 380px;flex:1 1 380px;border:1px solid #98bcd4;border-top-color:transparent}.itemdropgroup .item-list .entry[data-v-6ad94498]:first-child{border-top-color:#98bcd4}@media only screen and (min-width:1300px){.itemdropgroup .item-list .entry[data-v-6ad94498]{-webkit-box-flex:0;-ms-flex:0 1 456px;flex:0 1 456px;border-left:none}.itemdropgroup .item-list .entry[data-v-6ad94498]:first-child,.itemdropgroup .item-list .entry[data-v-6ad94498]:nth-child(2){border-top-color:#98bcd4}.itemdropgroup .item-list .entry[data-v-6ad94498]:nth-child(odd){border-left:1px solid #98bcd4}}.ftg-boost[data-v-6ad94498]{color:#d6d635;float:right}.property-drop[data-v-6ad94498]{color:#7fffd4;margin-left:1.6rem}.iid[data-v-6ad94498]{margin:0 6px;color:#3d4b54}
+
+/*!
+* direction.less v0.1.0
+*
+* Copyright 2013 Moshe Simantov
+* Licensed under the MIT license
+* 
+* Keep tracking: https://github.com/DevelopmentIL/direction.less
+*/@left : ~"left"`;.item-toolkit-index .kit-list .kit-item[data-v-790234c8]{display:block;text-transform:uppercase;font-family:Lato,Segoe UI,Tahoma,Verdana,sans-serif;font-size:14px;margin-left:.25em;margin-top:.6em;padding-left:.5em;padding-top:.2em;padding-bottom:.2em;border-left:2px solid #3b6e96;-webkit-transition:border .125s ease-in,color .125s ease-in,background-color .125s ease-in;transition:border .125s ease-in,color .125s ease-in,background-color .125s ease-in;font-weight:400;letter-spacing:.1em;color:#3b6e96;cursor:pointer}.item-toolkit-index .kit-list .kit-item[data-v-790234c8]:hover{color:#98bcd4;background:rgba(152,188,212,.2)}.item-toolkit-index .kit-list button[data-v-790234c8]{margin-left:.6em;margin-top:.6em}.gold-box[data-v-790234c8]{background:#f5d52a;color:#bb4141}.sliver-box[data-v-790234c8]{background:#bfbfbf;color:#714c4c}

@@ -1,0 +1,8 @@
+/*!
+* direction.less v0.1.0
+*
+* Copyright 2013 Moshe Simantov
+* Licensed under the MIT license
+* 
+* Keep tracking: https://github.com/DevelopmentIL/direction.less
+*/@left : ~"left"`;.card-3d{width:200px;height:300px;-webkit-transition:all .2s;transition:all .2s;position:relative;-webkit-perspective:1500px;perspective:1500px;background-color:transparent}.card-3d .card{position:absolute;top:0;left:0;width:100%;height:100%;-webkit-transition:all 1s;transition:all 1s;-webkit-backface-visibility:hidden;backface-visibility:hidden;border-radius:4px;border:2px solid #3b6e96}.card-3d .card:hover{-webkit-box-shadow:0 1px 6px rgba(0,0,0,.2);box-shadow:0 1px 6px rgba(0,0,0,.2);border-color:#3b6e96}.card-3d .card.card-f-y{-webkit-transform:rotateY(-180deg);transform:rotateY(-180deg)}.card-3d .card.card-f-x{-webkit-transform:rotateX(-180deg);transform:rotateX(-180deg)}.reward[data-v-ce30b3ee]{display:-webkit-box;display:-ms-flexbox;display:flex}
