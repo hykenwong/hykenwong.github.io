@@ -1,0 +1,28 @@
+.Title[data-v-09984caa]{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.Title .titleitem[data-v-09984caa]{-webkit-box-flex:0;-ms-flex:0 0 auto;flex:0 0 auto}
+
+/*!
+* direction.less v0.1.0
+*
+* Copyright 2013 Moshe Simantov
+* Licensed under the MIT license
+* 
+* Keep tracking: https://github.com/DevelopmentIL/direction.less
+*/.section[data-v-4c3593a6]{position:relative;margin-top:35px;border-top:1px solid #3b6e96;padding-top:4px}.section .title[data-v-4c3593a6]{font-size:12px;color:#3b6e96;text-transform:uppercase;letter-spacing:.2em;position:absolute;top:-1.3em;left:0;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.section table[data-v-4c3593a6]{margin:0 auto}.Title[data-v-4c3593a6]{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.Title .titleitem[data-v-4c3593a6]{-webkit-box-flex:0;-ms-flex:0 0 auto;flex:0 0 auto}
+
+/*!
+* direction.less v0.1.0
+*
+* Copyright 2013 Moshe Simantov
+* Licensed under the MIT license
+* 
+* Keep tracking: https://github.com/DevelopmentIL/direction.less
+*/.item-icon[data-v-6b1a107e]{width:64px;height:64px;position:relative;display:inline-block}.item-icon .item[data-v-6b1a107e]{-webkit-box-shadow:0 0 5px 3px rgb(84 236 90.27777778);box-shadow:0 0 5px 3px rgb(84 236 90.27777778);border:1px solid #0befcf;position:absolute;top:1px;left:1px;right:0;bottom:0}
+
+/*!
+* direction.less v0.1.0
+*
+* Copyright 2013 Moshe Simantov
+* Licensed under the MIT license
+* 
+* Keep tracking: https://github.com/DevelopmentIL/direction.less
+*/@left : ~"left"`;.stats[data-v-721f6ed0]{max-width:250px}@media only screen and (min-width:450px){.stats[data-v-721f6ed0]{max-width:380px}}@media only screen and (min-width:550px){.stats[data-v-721f6ed0]{max-width:500px}}@media only screen and (min-width:650px){.stats[data-v-721f6ed0]{max-width:400px}}@media only screen and (min-width:780px){.stats[data-v-721f6ed0]{max-width:500px}}@media only screen and (min-width:900px){.stats[data-v-721f6ed0]{max-width:644px}}@media only screen and (min-width:1300px){.stats[data-v-721f6ed0]{max-width:950px}}.Title[data-v-721f6ed0]{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.Title .titleitem[data-v-721f6ed0]{-webkit-box-flex:0;-ms-flex:0 0 auto;flex:0 0 auto}
